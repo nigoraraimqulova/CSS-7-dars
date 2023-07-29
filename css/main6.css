@@ -1,0 +1,14 @@
+.row{
+    /*border: 1px solid black;*/
+    width: 1800px;
+    height: 1800px;
+    background: radial-gradient(green,white,cornflowerblue,blue);
+}
+.col{
+    color: black;
+    text-align: center;
+}
+.col2{
+    color: black;
+    text-align: center;
+}

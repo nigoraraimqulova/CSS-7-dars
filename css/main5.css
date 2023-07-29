@@ -1,0 +1,6 @@
+.row{
+    /*border: 1px solid black;*/
+    width: 2000px;
+    height: 1800px;
+    background: radial-gradient(red,orange,yellow,greenyellow,green);
+}

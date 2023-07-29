@@ -1,0 +1,49 @@
+.wrap{
+    width: 1200px;
+    margin: 80px;
+}
+.row{
+    width: 70px;
+    height: 70px;
+    border: 1px solid red;
+    background-color: red;
+    box-shadow: 0 0 50px blue;
+}
+.row2{
+    width: 70px;
+    height: 70px;
+    border: 1px solid red;
+    background-color: red;
+    left: 120px;
+    box-shadow: 25px -5px 30px blue;
+}
+.row3{
+    width: 70px;
+    height: 70px;
+    border: 1px solid red;
+    background-color: red;
+    left: 120px;
+    box-shadow: 15px 15px 15px blue;
+}
+.row4{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    left: 120px;
+    box-shadow: 0 0 30px blue inset;
+}
+.row5{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    left: 120px;
+    box-shadow: 25px -5px 30px blue inset;
+}
+.row6{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    left: 120px;
+    box-shadow: 15px 15px 15px blue inset;
+}
+

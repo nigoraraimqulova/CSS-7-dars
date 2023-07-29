@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    border: 1px solid black;
+    width: 1200px;
+    height: 400px;
+    background: linear-gradient(90deg,blue,green,yellow,orange,red);
+}
+.col{
+    color: gray;
+    text-align: center;
+}

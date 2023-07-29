@@ -1,0 +1,25 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    /*border: 1px solid black;*/
+    width: 1900px;
+    height: 300px;
+    background: linear-gradient(180deg,darkred,dodgerblue,limegreen);
+}
+.col{
+    color: white;
+    text-align: center;
+}
+
+.row2{
+    /*border: 1px solid black;!**!*/
+    width: 1900px;
+    height: 300px;
+    background: linear-gradient(90deg,orange,yellow,green,blue,purple);
+}
+.col2{
+    color: white;
+    text-align: center;
+}

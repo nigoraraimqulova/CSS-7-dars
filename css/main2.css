@@ -1,0 +1,172 @@
+.wrap{
+    width: 1200px;
+    margin: 20px auto;
+}
+.row{
+    width: 100%;
+    display: block;
+}
+.col{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.col:hover{
+    transform: translateX(180px) translateY(180px);
+}
+.row .col:first-child .sana{
+    background-color: indianred;
+}
+.row .col:nth-child(14) .sana{
+    background-color: indianred;
+}
+.sana{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.text-sana{
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.col2{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col2:hover{
+    transform: rotateX(180deg) rotateZ(160deg) ;
+}
+
+.col3{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col3:hover{
+    transform: skewX(40deg) scale(0.5);
+}
+.col4{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col4:hover{
+    transform: rotateX(360deg) translateX(60px) ;
+}.col5{
+     width: 30%;
+     display: block;
+     float:  left;
+     border-radius: 8px;
+     background-color: white;
+     box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+     margin: 20px;
+     transition: all 1s ease-in-out ;
+ }
+.col5:hover{
+    transform: rotateX(180deg) translateY(180px) ;
+}
+.col6{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col6:hover{
+    transform: scaleX(1.5)  rotateZ(20deg);
+}
+.col7{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col7:hover{
+    transform: scale(0.5,1.5) rotate(180deg)  ;
+}
+.col8{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col8:hover{
+    transform: translateY(120px) scaleX(0.5) ;
+}
+.col9{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1.5s ease-in-out ;
+}
+.col9:hover{
+    transform: translateX(80px) rotate(30deg) ;
+}
+.col10{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col10:hover{
+    transform: scale(0.5) translateY(360px);
+}
+.col11{
+    width: 30%;
+    display: block;
+    float:  left;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    margin: 20px;
+    transition: all 1s ease-in-out ;
+}
+.col11:hover{
+    transform: scale(1.5) rotateY(360deg);
+}

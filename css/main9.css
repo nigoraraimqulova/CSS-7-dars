@@ -1,0 +1,23 @@
+body{
+    background-color: #ffb82b;
+}
+.wrap{
+    margin: 100px;
+}
+.row{
+    width: 200px;
+    height: 120px;
+    border: 2px solid black;
+    border-radius: 2px;
+    box-shadow: 10px 10px dimgray;
+}
+.col{
+    width: 100px;
+    height: 120px;
+    background-color: white;
+}
+.col2{
+    width: 100px;
+    height: 120px;
+    background-color: #f5c97a;
+}
